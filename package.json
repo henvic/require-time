@@ -1,7 +1,7 @@
 {
     "name": "require-time",
     "description": "Timer to catch your package slow loading dependencies.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/henvic/require-time",
     "author": {
         "name": "Henrique Vicente",
@@ -12,7 +12,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@github.com:henvic/rquire-time.git"
+        "url": "git@github.com:henvic/require-time.git"
     },
     "keywords": ["require", "require-time", "benchmark", "performance"],
     "bin": {
