@@ -1,7 +1,7 @@
 {
     "name": "require-time",
     "description": "Timer to catch your package slow loading dependencies.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "homepage": "https://github.com/henvic/require-time",
     "author": {
         "name": "Henrique Vicente",

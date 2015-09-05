@@ -3,12 +3,12 @@
 'use strict';
 
 var pkg,
-    deps,
-    all = 0,
-    rt = require('../require-time');
+    rt = require('../require-time'),
+    exit = process.exit;
 
-var exit = process.exit;
-process.exit = function noop () { };
+process.exit = function noop() {
+};
+
 try {
     pkg = require(process.cwd() + '/package.json');
 } catch(e) {
